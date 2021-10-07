@@ -3,7 +3,8 @@ I'm Tomas
 - 🔭  I'm passionate about Web Development( all about javascript) and tech education.
 - 🌱 I’m currently learning   F👨‍💻 U👨‍💻 L👨‍💻 L👨‍💻  S👨‍ T👨‍ A👨‍ C 👨‍💻k web development
 - 💬 Ask me all about javascript
--->LOADING.........
+- <a href="https://www.linkedin.com/in/tomas-b-4340b71b2/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" width="60" height="30"/></a>
+
 
 
 <h3 align="left">SKILLS:</h3>
